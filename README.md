@@ -27,4 +27,5 @@ You maybe need permissive
 Tested, but i dont responsible for any bricked devices!
 
 ## Credits
+me
 matejkoo217

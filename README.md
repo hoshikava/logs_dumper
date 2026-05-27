@@ -3,7 +3,7 @@ Get logcat, dmesg, and tombstones without adb
 
 
 What is this?
-So for you who like to boot oem ports, and then sets debug 1 doesnt make adb working, then you can get logs via init and this working by store your logcat,dmesg,tombstones to inactive block partition with formatted ext4, example: if your slot are _a, inactive will _b partition, like this script using recovery_b for target by default
+So for you who like to boot oem ports, and then sets debug 1 doesnt make adb working, then you can get logs via init and this working by store your logcat,dmesg,tombstones to inactive block partition with formatted ext4, example: if your slot are _a, inactive will _b partition, like this script using recovery_b for target by default, you can change to cust block or any inactive block partition
 
 
 ## Usage
